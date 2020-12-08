@@ -1,2 +1,2 @@
 # clerical-net
-Simply Neural Net for Repetitive Clerical Work
+Simple Neural Net for Repetitive Clerical Work
